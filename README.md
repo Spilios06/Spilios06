@@ -1,4 +1,4 @@
-##   Most Used Languages and Tools
+<h2 align="center">Most Used Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,unity,pytorch,dotnet,bash,git,vscode,linux" />
