@@ -1,10 +1,12 @@
 ##   Most Used Languages and Tools
-<a href="https://skillicons.dev">
-	<img align="center" src="https://skillicons.dev/icons?i=python,cs,unity,dotnet,bash,git,vscode,linux" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,unity,pytorch,dotnet,bash,git,vscode,linux" />
+  </a>
+</p>
 
 <p> </p>
 
-<p align="left">
+<p align="center">
 	<img alt="" src="https://github-readme-stats.vercel.app/api?username=Spilios06&theme=tokyonight&show_icons=true">
 </p>
