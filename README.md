@@ -5,14 +5,18 @@
   </a>
 </p>
 
-<p> </p>
+</br>
+<details>
+  <summary><b>Hack The Box Profile</b></summary>
+  </br>
+  <img src="https://www.hackthebox.com/badge/image/446353"/>
+  </summary>
+</details>
 
-<p align="center">
-	<img alt="" src="https://github-readme-stats.vercel.app/api?username=Spilios06&theme=tokyonight&show_icons=true">
-</p>
-
-<h3 align="center">Hack The Box Profile</h3>
-
-<p align="center">
-  <img src = https://www.hackthebox.com/badge/image/446353>
-</p>
+</br>
+<details>
+  <summary><b>Github stats</b></summary>
+  </br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Spilios06&theme=tokyonight&show_icons=true"/>
+  </summary>
+</details>
