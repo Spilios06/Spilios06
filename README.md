@@ -1,22 +1,13 @@
-<h2 align="left">Most Used Languages and Tools</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,unity,pytorch,dotnet,bash,git,vscode,linux" />
-  </a>
+<h2 align="center">Most Used Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,pytorch,dotnet,bash,git,vscode,linux" />
 </p>
 
-</br>
-<details>
-  <summary><b>Github Stats</b></summary>
-  </br>
+<p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Spilios06&theme=tokyonight&show_icons=true"/>
-  </summary>
-</details>
+</p>
 
-  </br>
-  <details>
-    <summary><b>Hack The Box Profile</b></summary>
-    </br>
-    <img src="https://www.hackthebox.com/badge/image/446353"/>
-    </summary>
-  </details>
+<p align="center">
+  <img width="300" src="https://www.hackthebox.com/badge/image/446353"/>
+</p>
