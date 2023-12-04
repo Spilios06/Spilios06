@@ -10,3 +10,9 @@
 <p align="center">
 	<img alt="" src="https://github-readme-stats.vercel.app/api?username=Spilios06&theme=tokyonight&show_icons=true">
 </p>
+
+<h3 align="center">Hack The Box Profile</h3>
+
+<p align="center">
+  <img src = https://www.hackthebox.com/badge/image/446353>
+</p>
