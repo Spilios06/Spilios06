@@ -1,7 +1,7 @@
 <h2 align="center">Most Used Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,unreal,unity,bash,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,python,java,unity,unreal,bash,git,vscode,linux" />
 </p>
 
 <p align="center">
