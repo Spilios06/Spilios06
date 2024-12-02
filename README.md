@@ -1,7 +1,7 @@
 <h2 align="center">Most Used Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,java,unity,raspberrypi,bash,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,unity,vim,git,linux" />
 </p>
 
 <p align="center">
