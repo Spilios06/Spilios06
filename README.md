@@ -8,5 +8,5 @@
 
 
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=aSpilios06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Spilios06/github-readme-stats#gh-dark-mode-only"/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=aSpilios06&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </p>
