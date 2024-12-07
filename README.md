@@ -1,7 +1,7 @@
 <h2 align="center">Most Used Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,python,php,mysql,unity,vim,git,linux" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spilios06&layout=compact)
 </p>
 
 <p align="center">
